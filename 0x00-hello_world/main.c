@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-  printf("Last digit");
+  
 return (0);
 }
