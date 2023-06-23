@@ -1,11 +1,11 @@
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef MAIN_H
+#define MAIN_H
 
 /*
- * File: holberton.h
- * Auth: Brennan D Baraban
+ * File: main.h
+ * Auth: 
  * Desc: Header file containing prototypes for all functions
- *       used in the 0x03-more_functions_nested_loops directory.
+ *       used in the 0x04-more_functions_nested_loops directory.
  */
 
 int _putchar(char c);
