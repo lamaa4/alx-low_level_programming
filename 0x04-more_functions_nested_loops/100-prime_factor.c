@@ -1,7 +1,3 @@
-/*
- * File: 100-prime_factor.c
- */
-
 #include <stdio.h>
 
 /**
